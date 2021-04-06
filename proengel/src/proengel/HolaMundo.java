@@ -2,9 +2,9 @@ package proengel;
 
 public class HolaMundo {
 	
-	int dividir (int a, int b) {
+	int multiplicar (int a, int b) {
 		
-		return a / b;
+		return a * b;
 		
 	}
 
