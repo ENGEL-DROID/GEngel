@@ -10,9 +10,13 @@ public class HolaMundo {
 	
 	int sumar(int a, int b) {
 		
+		a= 6;
+		b=10;
+		
 		return a+b;
 		
 	}
+	
 
 
 	public static void main(String[] args) {
