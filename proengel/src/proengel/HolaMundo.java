@@ -2,9 +2,9 @@ package proengel;
 
 public class HolaMundo {
 	
-	int sumar (int a, int b) {
+	int restar (int a, int b) {
 		
-		return a + b;
+		return a - b;
 		
 	}
 	
